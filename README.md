@@ -1,4 +1,4 @@
-![{7DF49D5F-9C5E-4177-B3EC-B57F69CA634D}](https://github.com/user-attachments/assets/a34dc9fe-7b7d-4965-87b8-f945a0a1b47e)# Crypto Predictive Model 🚀💡
+# Crypto Predictive Model 🚀💡
 
 A predictive modeling project to analyze and forecast cryptocurrency trends by leveraging machine learning techniques and data insights. 📊📈
 
