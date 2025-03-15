@@ -1,4 +1,4 @@
-from deploy_app import app
+import deploy_app
 
 if __name__ == "__main__":
-    app.run() 
+    deploy_app.run() 
