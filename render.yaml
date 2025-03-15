@@ -3,8 +3,8 @@ services:
     name: crypto-price-predictor
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn deploy_app:app
+    startCommand: gunicorn wsgi:app
     envVars:
       - key: GOOGLE_API_KEY
         sync: false
-    autoDeploy: true 
+    autoDeploy: true
